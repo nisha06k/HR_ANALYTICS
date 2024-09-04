@@ -24,7 +24,7 @@ Average salary: The average salary of employees in the organization.
 Average Year: The Average year of employees who work in the organization.
 
 Visualizations:
-Education-wise Attrition (Dount Chart): A pie chart illustrates attrition distribution across different departments. 
+Education-wise Attrition (Donut Chart): A pie chart illustrates attrition distribution across different departments. 
 Each slice represents a department's proportion in the total attrition count, enabling HR managers to identify departments with higher turnover rates.
 
 Number of Employees by Age Group (Bar Graph): A bar graph categorizes employees into different age groups, offering insights into the age demographics of the workforce. 
