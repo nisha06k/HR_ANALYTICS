@@ -16,7 +16,7 @@ active employee counts, and attrition trends based on gender and different age b
 optimize workforce management, and foster a diverse and inclusive workplace environment.
 
 Key Performance Indicators (KPIs):
-Overall employess: The total number of employees in the organization.
+Overall employees: The total number of employees in the organization.
 Attrition: The number of employees who have left the organization.
 Attrition Rate: The percentage of employees who have left, indicating the attrition rate.
 Average Age: The average age of employees in the organization.
@@ -24,7 +24,7 @@ Average salary: The average salary of employees in the organization.
 Average Year: The Average year of employees who work in the organization.
 
 Visualizations:
-Education-wise Attrition (Pie Chart): A pie chart illustrates attrition distribution across different departments. 
+Education-wise Attrition (Dount Chart): A pie chart illustrates attrition distribution across different departments. 
 Each slice represents a department's proportion in the total attrition count, enabling HR managers to identify departments with higher turnover rates.
 
 Number of Employees by Age Group (Bar Graph): A bar graph categorizes employees into different age groups, offering insights into the age demographics of the workforce. 
